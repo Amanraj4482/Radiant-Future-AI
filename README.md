@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Radiant Future AI project is an AI-driven solution designed to provide personalized recommendations for solar panel installations. At the core of this project is an **advanced machine learning model** that predicts solar panel requirements with remarkable accuracy. This feature is the highlight of our system, leveraging techniques to ensure precise and reliable predictions, setting a new benchmark in the field of solar energy solutions.
+The Radiant Future AI project is an AI-driven solution designed to provide personalized recommendations for solar panel installations. At the core of this project is an **advanced machine learning model** that predicts solar panel requirements with remarkable accuracy. This feature is the highlight of our system, leveraging techniques to ensure precise and reliable predictions.
 
 ### Core Features
 
