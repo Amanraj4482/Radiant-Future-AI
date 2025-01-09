@@ -93,8 +93,8 @@ Real-time data fetching enhances prediction accuracy and user experience by inte
 
 ## 🤝 Contributors
 
+- [Aman Raj](https://github.com/Amanraj4482)
 - [Soumya Dhakad](https://github.com/soumya-1712)
 - [Hardik Kanzariya](https://github.com/MrHardik-k)
-- [Aman Raj](https://github.com/Amanraj4482)
 - [Priyanshu Pandey](https://github.com/Harshpf)
 
